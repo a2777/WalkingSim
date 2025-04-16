@@ -3,13 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
+<<<<<<< HEAD
   tags:
   - Camera
+=======
+  tags: []
+>>>>>>> origin/Violet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
   - Ground
+=======
+  - whatIsGround
+>>>>>>> origin/Violet
   - Water
   - UI
   - 
